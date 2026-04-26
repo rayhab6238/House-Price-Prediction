@@ -1,1 +1,1 @@
-# House-Price-Prediction
+# Islamabad House Price Prediction using Linear Regression (From Scratch)
