@@ -1,6 +1,4 @@
 # Islamabad House Price Prediction using Linear Regression (From Scratch)
-📝 README (copy + edit slightly)
-
 Title:
 House Price Prediction using Linear Regression (From Scratch)
 
